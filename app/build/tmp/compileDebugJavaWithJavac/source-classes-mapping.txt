@@ -1,0 +1,337 @@
+androidx/activity/ktx/R.java
+ androidx.activity.ktx.R
+ androidx.activity.ktx.R$attr
+ androidx.activity.ktx.R$color
+ androidx.activity.ktx.R$dimen
+ androidx.activity.ktx.R$drawable
+ androidx.activity.ktx.R$id
+ androidx.activity.ktx.R$integer
+ androidx.activity.ktx.R$layout
+ androidx.activity.ktx.R$string
+ androidx.activity.ktx.R$style
+ androidx.activity.ktx.R$styleable
+com/google/android/datatransport/backend/cct/R.java
+ com.google.android.datatransport.backend.cct.R
+com/google/android/gms/phenotype/R.java
+ com.google.android.gms.phenotype.R
+androidx/vectordrawable/R.java
+ androidx.vectordrawable.R
+ androidx.vectordrawable.R$attr
+ androidx.vectordrawable.R$color
+ androidx.vectordrawable.R$dimen
+ androidx.vectordrawable.R$drawable
+ androidx.vectordrawable.R$id
+ androidx.vectordrawable.R$integer
+ androidx.vectordrawable.R$layout
+ androidx.vectordrawable.R$string
+ androidx.vectordrawable.R$style
+ androidx.vectordrawable.R$styleable
+androidx/lifecycle/livedata/core/R.java
+ androidx.lifecycle.livedata.core.R
+androidx/appcompat/resources/R.java
+ androidx.appcompat.resources.R
+ androidx.appcompat.resources.R$attr
+ androidx.appcompat.resources.R$color
+ androidx.appcompat.resources.R$dimen
+ androidx.appcompat.resources.R$drawable
+ androidx.appcompat.resources.R$id
+ androidx.appcompat.resources.R$integer
+ androidx.appcompat.resources.R$layout
+ androidx.appcompat.resources.R$string
+ androidx.appcompat.resources.R$style
+ androidx.appcompat.resources.R$styleable
+androidx/arch/core/R.java
+ androidx.arch.core.R
+androidx/fragment/R.java
+ androidx.fragment.R
+ androidx.fragment.R$anim
+ androidx.fragment.R$attr
+ androidx.fragment.R$color
+ androidx.fragment.R$dimen
+ androidx.fragment.R$drawable
+ androidx.fragment.R$id
+ androidx.fragment.R$integer
+ androidx.fragment.R$layout
+ androidx.fragment.R$string
+ androidx.fragment.R$style
+ androidx.fragment.R$styleable
+androidx/savedstate/R.java
+ androidx.savedstate.R
+com/google/mlkit/codelab/translate/BuildConfig.java
+ com.google.mlkit.codelab.translate.BuildConfig
+androidx/camera/lifecycle/R.java
+ androidx.camera.lifecycle.R
+ androidx.camera.lifecycle.R$attr
+ androidx.camera.lifecycle.R$color
+ androidx.camera.lifecycle.R$dimen
+ androidx.camera.lifecycle.R$drawable
+ androidx.camera.lifecycle.R$id
+ androidx.camera.lifecycle.R$integer
+ androidx.camera.lifecycle.R$layout
+ androidx.camera.lifecycle.R$string
+ androidx.camera.lifecycle.R$style
+ androidx.camera.lifecycle.R$styleable
+androidx/interpolator/R.java
+ androidx.interpolator.R
+androidx/core/R.java
+ androidx.core.R
+ androidx.core.R$attr
+ androidx.core.R$color
+ androidx.core.R$dimen
+ androidx.core.R$drawable
+ androidx.core.R$id
+ androidx.core.R$integer
+ androidx.core.R$layout
+ androidx.core.R$string
+ androidx.core.R$style
+ androidx.core.R$styleable
+com/google/android/gms/common/R.java
+ com.google.android.gms.common.R
+ com.google.android.gms.common.R$integer
+ com.google.android.gms.common.R$string
+androidx/activity/R.java
+ androidx.activity.R
+ androidx.activity.R$attr
+ androidx.activity.R$color
+ androidx.activity.R$dimen
+ androidx.activity.R$drawable
+ androidx.activity.R$id
+ androidx.activity.R$integer
+ androidx.activity.R$layout
+ androidx.activity.R$string
+ androidx.activity.R$style
+ androidx.activity.R$styleable
+com/google/mlkit/vision/text/R.java
+ com.google.mlkit.vision.text.R
+com/google/mlkit/common/R.java
+ com.google.mlkit.common.R
+com/google/android/gms/base/R.java
+ com.google.android.gms.base.R
+ com.google.android.gms.base.R$attr
+ com.google.android.gms.base.R$color
+ com.google.android.gms.base.R$drawable
+ com.google.android.gms.base.R$id
+ com.google.android.gms.base.R$string
+ com.google.android.gms.base.R$styleable
+androidx/drawerlayout/R.java
+ androidx.drawerlayout.R
+ androidx.drawerlayout.R$attr
+ androidx.drawerlayout.R$color
+ androidx.drawerlayout.R$dimen
+ androidx.drawerlayout.R$drawable
+ androidx.drawerlayout.R$id
+ androidx.drawerlayout.R$integer
+ androidx.drawerlayout.R$layout
+ androidx.drawerlayout.R$string
+ androidx.drawerlayout.R$style
+ androidx.drawerlayout.R$styleable
+androidx/versionedparcelable/R.java
+ androidx.versionedparcelable.R
+androidx/lifecycle/ktx/R.java
+ androidx.lifecycle.ktx.R
+androidx/core/ktx/R.java
+ androidx.core.ktx.R
+ androidx.core.ktx.R$attr
+ androidx.core.ktx.R$color
+ androidx.core.ktx.R$dimen
+ androidx.core.ktx.R$drawable
+ androidx.core.ktx.R$id
+ androidx.core.ktx.R$integer
+ androidx.core.ktx.R$layout
+ androidx.core.ktx.R$string
+ androidx.core.ktx.R$style
+ androidx.core.ktx.R$styleable
+androidx/lifecycle/livedata/core/ktx/R.java
+ androidx.lifecycle.livedata.core.ktx.R
+androidx/lifecycle/viewmodel/R.java
+ androidx.lifecycle.viewmodel.R
+androidx/camera/core/R.java
+ androidx.camera.core.R
+ androidx.camera.core.R$attr
+ androidx.camera.core.R$color
+ androidx.camera.core.R$dimen
+ androidx.camera.core.R$drawable
+ androidx.camera.core.R$id
+ androidx.camera.core.R$integer
+ androidx.camera.core.R$layout
+ androidx.camera.core.R$string
+ androidx.camera.core.R$style
+ androidx.camera.core.R$styleable
+androidx/lifecycle/extensions/R.java
+ androidx.lifecycle.extensions.R
+ androidx.lifecycle.extensions.R$anim
+ androidx.lifecycle.extensions.R$attr
+ androidx.lifecycle.extensions.R$color
+ androidx.lifecycle.extensions.R$dimen
+ androidx.lifecycle.extensions.R$drawable
+ androidx.lifecycle.extensions.R$id
+ androidx.lifecycle.extensions.R$integer
+ androidx.lifecycle.extensions.R$layout
+ androidx.lifecycle.extensions.R$string
+ androidx.lifecycle.extensions.R$style
+ androidx.lifecycle.extensions.R$styleable
+androidx/cursoradapter/R.java
+ androidx.cursoradapter.R
+androidx/appcompat/R.java
+ androidx.appcompat.R
+ androidx.appcompat.R$anim
+ androidx.appcompat.R$attr
+ androidx.appcompat.R$bool
+ androidx.appcompat.R$color
+ androidx.appcompat.R$dimen
+ androidx.appcompat.R$drawable
+ androidx.appcompat.R$id
+ androidx.appcompat.R$integer
+ androidx.appcompat.R$interpolator
+ androidx.appcompat.R$layout
+ androidx.appcompat.R$string
+ androidx.appcompat.R$style
+ androidx.appcompat.R$styleable
+androidx/lifecycle/livedata/R.java
+ androidx.lifecycle.livedata.R
+com/google/android/datatransport/R.java
+ com.google.android.datatransport.R
+com/google/android/datatransport/runtime/R.java
+ com.google.android.datatransport.runtime.R
+androidx/lifecycle/R.java
+ androidx.lifecycle.R
+com/google/mlkit/codelab/translate/R.java
+ com.google.mlkit.codelab.translate.R
+ com.google.mlkit.codelab.translate.R$anim
+ com.google.mlkit.codelab.translate.R$attr
+ com.google.mlkit.codelab.translate.R$bool
+ com.google.mlkit.codelab.translate.R$color
+ com.google.mlkit.codelab.translate.R$dimen
+ com.google.mlkit.codelab.translate.R$drawable
+ com.google.mlkit.codelab.translate.R$font
+ com.google.mlkit.codelab.translate.R$id
+ com.google.mlkit.codelab.translate.R$integer
+ com.google.mlkit.codelab.translate.R$interpolator
+ com.google.mlkit.codelab.translate.R$layout
+ com.google.mlkit.codelab.translate.R$mipmap
+ com.google.mlkit.codelab.translate.R$raw
+ com.google.mlkit.codelab.translate.R$string
+ com.google.mlkit.codelab.translate.R$style
+ com.google.mlkit.codelab.translate.R$styleable
+ com.google.mlkit.codelab.translate.R$xml
+androidx/customview/R.java
+ androidx.customview.R
+ androidx.customview.R$attr
+ androidx.customview.R$color
+ androidx.customview.R$dimen
+ androidx.customview.R$drawable
+ androidx.customview.R$id
+ androidx.customview.R$integer
+ androidx.customview.R$layout
+ androidx.customview.R$string
+ androidx.customview.R$style
+ androidx.customview.R$styleable
+com/google/mlkit/nl/translate/R.java
+ com.google.mlkit.nl.translate.R
+ com.google.mlkit.nl.translate.R$raw
+ com.google.mlkit.nl.translate.R$xml
+androidx/lifecycle/viewmodel/ktx/R.java
+ androidx.lifecycle.viewmodel.ktx.R
+androidx/exifinterface/R.java
+ androidx.exifinterface.R
+androidx/loader/R.java
+ androidx.loader.R
+ androidx.loader.R$attr
+ androidx.loader.R$color
+ androidx.loader.R$dimen
+ androidx.loader.R$drawable
+ androidx.loader.R$id
+ androidx.loader.R$integer
+ androidx.loader.R$layout
+ androidx.loader.R$string
+ androidx.loader.R$style
+ androidx.loader.R$styleable
+androidx/annotation/experimental/R.java
+ androidx.annotation.experimental.R
+com/google/firebase/components/R.java
+ com.google.firebase.components.R
+androidx/camera/view/R.java
+ androidx.camera.view.R
+ androidx.camera.view.R$anim
+ androidx.camera.view.R$attr
+ androidx.camera.view.R$bool
+ androidx.camera.view.R$color
+ androidx.camera.view.R$dimen
+ androidx.camera.view.R$drawable
+ androidx.camera.view.R$id
+ androidx.camera.view.R$integer
+ androidx.camera.view.R$interpolator
+ androidx.camera.view.R$layout
+ androidx.camera.view.R$string
+ androidx.camera.view.R$style
+ androidx.camera.view.R$styleable
+androidx/constraintlayout/widget/R.java
+ androidx.constraintlayout.widget.R
+ androidx.constraintlayout.widget.R$attr
+ androidx.constraintlayout.widget.R$id
+ androidx.constraintlayout.widget.R$styleable
+com/google/firebase/encoders/json/R.java
+ com.google.firebase.encoders.json.R
+androidx/camera/camera2/R.java
+ androidx.camera.camera2.R
+ androidx.camera.camera2.R$attr
+ androidx.camera.camera2.R$color
+ androidx.camera.camera2.R$dimen
+ androidx.camera.camera2.R$drawable
+ androidx.camera.camera2.R$id
+ androidx.camera.camera2.R$integer
+ androidx.camera.camera2.R$layout
+ androidx.camera.camera2.R$string
+ androidx.camera.camera2.R$style
+ androidx.camera.camera2.R$styleable
+androidx/lifecycle/process/R.java
+ androidx.lifecycle.process.R
+com/google/mlkit/vision/common/R.java
+ com.google.mlkit.vision.common.R
+androidx/lifecycle/service/R.java
+ androidx.lifecycle.service.R
+androidx/viewpager/R.java
+ androidx.viewpager.R
+ androidx.viewpager.R$attr
+ androidx.viewpager.R$color
+ androidx.viewpager.R$dimen
+ androidx.viewpager.R$drawable
+ androidx.viewpager.R$id
+ androidx.viewpager.R$integer
+ androidx.viewpager.R$layout
+ androidx.viewpager.R$string
+ androidx.viewpager.R$style
+ androidx.viewpager.R$styleable
+androidx/fragment/ktx/R.java
+ androidx.fragment.ktx.R
+ androidx.fragment.ktx.R$anim
+ androidx.fragment.ktx.R$attr
+ androidx.fragment.ktx.R$color
+ androidx.fragment.ktx.R$dimen
+ androidx.fragment.ktx.R$drawable
+ androidx.fragment.ktx.R$id
+ androidx.fragment.ktx.R$integer
+ androidx.fragment.ktx.R$layout
+ androidx.fragment.ktx.R$string
+ androidx.fragment.ktx.R$style
+ androidx.fragment.ktx.R$styleable
+com/google/mlkit/nl/languageid/R.java
+ com.google.mlkit.nl.languageid.R
+com/google/android/gms/tasks/R.java
+ com.google.android.gms.tasks.R
+com/google/android/gms/clearcut/R.java
+ com.google.android.gms.clearcut.R
+androidx/lifecycle/viewmodel/savedstate/R.java
+ androidx.lifecycle.viewmodel.savedstate.R
+androidx/vectordrawable/animated/R.java
+ androidx.vectordrawable.animated.R
+ androidx.vectordrawable.animated.R$attr
+ androidx.vectordrawable.animated.R$color
+ androidx.vectordrawable.animated.R$dimen
+ androidx.vectordrawable.animated.R$drawable
+ androidx.vectordrawable.animated.R$id
+ androidx.vectordrawable.animated.R$integer
+ androidx.vectordrawable.animated.R$layout
+ androidx.vectordrawable.animated.R$string
+ androidx.vectordrawable.animated.R$style
+ androidx.vectordrawable.animated.R$styleable
